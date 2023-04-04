@@ -139,4 +139,3 @@ function ShowFormula(fromUnit,toUnit)
         }
     }
 }
-
