@@ -371,18 +371,3 @@ var formula = `{
 }`
         
 
-Paste your content here to scan...
-SCAN
-Use ChatGPT to edit or generate...
-
-UseChatGPT.AI
-Shortcut: Alt+J
-
-Please log in to ChatGPT to continue
-
-Ask ChatGPT...
-0/10,000
-Contact us
-
-Tip: Press Shift+Return for new line
-
