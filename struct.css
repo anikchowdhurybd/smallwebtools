@@ -1,4 +1,18 @@
-
+body {
+    background-color: #ffffff!important;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    width: 100%;
+   /*  font-family: "Open Sans", "Helvetica Neue", Segoe UI, Helvetica, Arial, sans-serif; */
+   font-family: "Noto Sans HK",sans-serif !important;
+    font-weight: normal;
+    line-height: 1.8;
+    font-size: 12pt;
+}
+body {
+    background: #fff !important;
+}
 input {
     margin: 0;
     padding: 0;
@@ -33,6 +47,45 @@ a {
 a:hover {
     color: #0D5AB8;
     text-decoration: underline;
+}
+
+h1 {
+    font-size: 27pt;
+    margin: 0;
+    color: #074189;
+    clear: both;
+    display: inline;
+}
+
+h1.xt,
+h2.xt {
+    font-size: 36pt;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 25pt;
+    margin: 0;
+    color: #333;
+    clear: both;
+    display: inline;
+    line-height: 1;
+}
+
+h3 {
+    font-size: 14pt;
+    margin: 0;
+    color: #333;
+    clear: both;
+    display: inline;
+}
+
+h4 {
+    font-size: 12pt;
+    margin: 0;
+    color: #333;
+    clear: both;
+    display: inline;
 }
 
 hr {
