@@ -1,3 +1,22 @@
+/*
+ * Updated Script!
+ * Thanks for taking interest in this script
+
+ * For more information visit: https://www.technicalarp.com/
+ * NOTE: Installation and usage are posted on our website, kindly visit website and search for privacy policy generator Script or
+   disclaimer generator or even terms and conditions generator script.
+ 
+ * Copyright (c) 2021 www.technicalarp.com
+ * Released under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
+  
+ * Use this script with proper credit so don't remove footer credit of our website and for more detail visit www.technicalarp.com website for more scripts.
+
+ * Also If you want to give some suggestions or want some modification or anything related to script then visit our website and contact us anytime
+
+ * Below code may content some encrypted lines but nothing harmful. Why? because I am providing it for free so I don't want people to remove my credit
+ * even though it is Under Creative Commons License but still many people may remove my credit. That's the reason. Please support us so that we can create such useful scripts.
+*/
+
 //<![CDATA[
     (function () {
         var SCROLL_TIME = 200;
