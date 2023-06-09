@@ -1,5 +1,5 @@
-                    //<![CDATA[
-                       (function () {
+<script type="text/javascript">
+                      (function () {
                         var SCROLL_TIME = 200;
                         var SCROLL_GRANULARITY = 20;
                         var COUNTRY = "";
@@ -2982,4 +2982,4 @@
                         FORM.addEventListener("keypress", preventEnter, false);
                         show(FORM);
                       })();
-                    //]]>
+                    </script>
